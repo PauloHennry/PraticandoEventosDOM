@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.secao{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background: black;
+    justify-content: center;
+    align-items: center;
+}
+.button1{
+    height: 60px;
+    margin: 0px 20px 0 0;
+    width: 90px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+#img{
+    height: 245px;
+    width: 185px;
+}
+
+.button2{
+    height: 60px;
+    margin: 0px 0px 0 20px;
+    width: 90px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
